@@ -1,0 +1,3 @@
+class Easteregg < ApplicationRecord
+  
+end
